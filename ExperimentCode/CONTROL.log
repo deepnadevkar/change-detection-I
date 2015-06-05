@@ -1,0 +1,5 @@
+Line 85: Class DlsrLib.DriverLINXSR of control DriverLINXSR1 was not a loaded control class.
+Line 88: The property name _Version in DriverLINXSR1 is invalid.
+Line 89: The property name _ExtentX in DriverLINXSR1 is invalid.
+Line 90: The property name _ExtentY in DriverLINXSR1 is invalid.
+Line 91: The property name _StockProps in DriverLINXSR1 is invalid.

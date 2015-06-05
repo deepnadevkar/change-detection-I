@@ -1,0 +1,10 @@
+Line 76: Class Mh3dfrmLibCtl.Mh3dFrame of control frameStatus was not a loaded control class.
+Line 115: Class Mh3dfrmLibCtl.Mh3dFrame of control frameMessage was not a loaded control class.
+Line 278: Class MhinintLibCtl.MhIntInput of control intITI was not a loaded control class.
+Line 321: Class MhinintLibCtl.MhIntInput of control intListLength was not a loaded control class.
+Line 356: Class MhinintLibCtl.MhIntInput of control intCorrectPosition was not a loaded control class.
+Line 635: Class SSDataWidgets_B.SSDBGrid of control gridTrialInfo was not a loaded control class.
+Line 1070: Class SSDataWidgets_B.SSDBGrid of control gridSames was not a loaded control class.
+Line 1304: Class SSDataWidgets_B.SSDBGrid of control gridProbe was not a loaded control class.
+Line 1361: Class SSDataWidgets_B.SSDBGrid of control gridStimuli was not a loaded control class.
+Line 1435: Class SSDataWidgets_B.SSDBGrid of control SSDBGrid1 was not a loaded control class.
